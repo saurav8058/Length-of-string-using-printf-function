@@ -1,4 +1,4 @@
-//Length of string using printf function
+
 #include<stdio.h>
 int main()
 {
